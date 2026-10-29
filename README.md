@@ -2,7 +2,7 @@
 
 A book catalogue for readers interested in quantitative finance, algorithmic trading, market structure, trading strategies and trading psychology.
 
-**[Explore Quant Library](https://quant-library.openfrost26.chatgpt.site/)**
+**[Explore Quant Library](https://quant-library.netlify.app/)**
 
 ## Explore the collection
 
